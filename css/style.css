@@ -26,10 +26,10 @@ header {
     background-image: url(https://cdn.pixabay.com/photo/2019/07/01/16/58/tanzania-4310438_1280.jpg);
     background-repeat: repeat;
     place-items: center;
-    height: 500%;
+    height: 1000%;
     margin: 0;
     text-align: center;
-    width: 500%;
+    width: 1000%;
 }
 
 .PageBody h1 {
