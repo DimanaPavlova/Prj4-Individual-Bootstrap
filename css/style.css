@@ -23,7 +23,7 @@ header {
 
 .PageBody {
     /*background-color: #333333;*/
-    background-image: url(D:\Git PRJ1\Prj4-Individual-Bootstrap\Images\tanzania-4310438.jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2019/07/01/16/58/tanzania-4310438_1280.jpg);
     background-repeat: repeat;
     place-items: center;
     height: 100%;
@@ -92,5 +92,5 @@ footer {
     color: #333333;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
-    background-image: url(D:\Git PRJ1\Prj4-Individual-Bootstrap\Images\down-angle-photography-of-red-clouds-and-blue-sky-844297.jpg);
+    background-image: url(https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=down-angle-photography-of-red-clouds-and-blue-sky-844297.jpg&fm=jpg);
 }
