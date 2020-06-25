@@ -26,10 +26,17 @@ header {
     background-image: url(https://cdn.pixabay.com/photo/2019/07/01/16/58/tanzania-4310438_1280.jpg);
     background-repeat: repeat;
     place-items: center;
+<<<<<<< HEAD
     height: 900%;
     margin: 0;
     text-align: center;
     width: 900%;
+=======
+    height: 500%;
+    margin: 0;
+    text-align: center;
+    width: 500%;
+>>>>>>> parent of 4367d0b... Update style.css
 }
 
 .PageBody h1 {
