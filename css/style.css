@@ -27,6 +27,7 @@ header {
     background-repeat: repeat;
     place-items: center;
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 900%;
     margin: 0;
     text-align: center;
@@ -37,6 +38,12 @@ header {
     text-align: center;
     width: 500%;
 >>>>>>> parent of 4367d0b... Update style.css
+=======
+    height: 1000%;
+    margin: 0;
+    text-align: center;
+    width: 1000%;
+>>>>>>> parent of a1ca0e1... Update style.css
 }
 
 .PageBody h1 {
