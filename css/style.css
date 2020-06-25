@@ -24,8 +24,10 @@ header {
 .PageBody {
     /*background-color: #333333;*/
     background-image: url(https://cdn.pixabay.com/photo/2019/07/01/16/58/tanzania-4310438_1280.jpg);
+	background-size: 3000px 2560px;
+	align-content: center;
     background-repeat: repeat;
-    place-items: center;
+    place-image: center;
     height: 100%;
     margin: 0;
     text-align: center;
