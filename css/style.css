@@ -7,7 +7,8 @@
 
 
 header {
-    background-image: url(https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=down-angle-photography-of-red-clouds-and-blue-sky-844297.jpg&fm=jpg);
+
+    background-image: url( "../Images/down-angle-photography-of-red-clouds-and-blue-sky-844297.jpg");
     padding: 70px;
     color: #6B0D35;
     text-align: center;
@@ -23,9 +24,9 @@ header {
 
 .PageBody {
     /*background-color: #333333;*/
-    background-image: url(https://cdn.pixabay.com/photo/2019/07/01/16/58/tanzania-4310438_1280.jpg);
-	background-size: cover;
-	align-content: center;
+    background-image: url(../Images/tanzania-4310438.jpg);
+    background-size: cover;
+    align-content: center;
     height: 100%;
     margin: 0;
     text-align: center;
@@ -92,7 +93,7 @@ footer {
     color: #333333;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
-    background-image: url(https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=down-angle-photography-of-red-clouds-and-blue-sky-844297.jpg&fm=jpg);
+    background-image: url(../Images/down-angle-photography-of-red-clouds-and-blue-sky-844297.jpg);
 }
 img{
 	padding-bottom: 10px;
